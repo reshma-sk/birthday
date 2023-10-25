@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/birthday-react/static/css/main.8bee4867.css",
-    "main.js": "/birthday-react/static/js/main.f3d6b59e.js",
-    "index.html": "/birthday-react/index.html",
-    "main.8bee4867.css.map": "/birthday-react/static/css/main.8bee4867.css.map",
-    "main.f3d6b59e.js.map": "/birthday-react/static/js/main.f3d6b59e.js.map"
+    "main.css": "/birthday/static/css/main.8bee4867.css",
+    "main.js": "/birthday/static/js/main.f3d6b59e.js",
+    "index.html": "/birthday/index.html",
+    "main.8bee4867.css.map": "/birthday/static/css/main.8bee4867.css.map",
+    "main.f3d6b59e.js.map": "/birthday/static/js/main.f3d6b59e.js.map"
   },
   "entrypoints": [
     "static/css/main.8bee4867.css",
