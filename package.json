@@ -1,7 +1,7 @@
 {
   "name": "birthday",
   "version": "0.1.0",
-  "homepage": "https://reshma-sk.github.io/birthday-react",
+  "homepage": "https://reshma-sk.github.io/birthday-react/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
